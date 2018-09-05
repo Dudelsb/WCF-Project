@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\LearningWCF\LearningWCF\bin\Debug\LearningWCF.dll.config
+C:\Users\Home\source\repos\LearningWCF\LearningWCF\bin\Debug\LearningWCF.dll
+C:\Users\Home\source\repos\LearningWCF\LearningWCF\bin\Debug\LearningWCF.pdb
+C:\Users\Home\source\repos\LearningWCF\LearningWCF\obj\Debug\LearningWCF.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\LearningWCF\LearningWCF\obj\Debug\LearningWCF.dll
+C:\Users\Home\source\repos\LearningWCF\LearningWCF\obj\Debug\LearningWCF.pdb
