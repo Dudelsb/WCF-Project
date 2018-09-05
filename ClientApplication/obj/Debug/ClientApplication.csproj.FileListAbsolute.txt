@@ -1,0 +1,7 @@
+C:\Users\Home\source\repos\LearningWCF\ClientApplication\bin\Debug\ClientApplication.exe.config
+C:\Users\Home\source\repos\LearningWCF\ClientApplication\bin\Debug\ClientApplication.exe
+C:\Users\Home\source\repos\LearningWCF\ClientApplication\bin\Debug\ClientApplication.pdb
+C:\Users\Home\source\repos\LearningWCF\ClientApplication\obj\Debug\ClientApplication.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\LearningWCF\ClientApplication\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\LearningWCF\ClientApplication\obj\Debug\ClientApplication.exe
+C:\Users\Home\source\repos\LearningWCF\ClientApplication\obj\Debug\ClientApplication.pdb
